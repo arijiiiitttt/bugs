@@ -28,7 +28,7 @@
 9. [How to practise](#how-to-practise)
 10. [Testing and checking your work](#testing-and-checking-your-work)
 11. [Troubleshooting](#troubleshooting)
-12. [Project layout](#project-layout)
+
 
 
 
@@ -238,14 +238,4 @@ npm run solution -- 001
 | Tests pass but the README says otherwise | Trust the README spec, then open an issue with the problem number |
 
 
-## Project layout
 
-```
-nodejs-practice-pack/
-  README.md          this file
-  package.json       npm scripts and the Express dependency
-  problems.json      index of all problems
-  problems/          the 289 problems
-  lib/testkit.js     test helpers (do not edit)
-  scripts/           the runner behind npm test and npm run list
-```
