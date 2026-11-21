@@ -38,7 +38,7 @@
 You need **Node.js 20+** (built and tested on Node 22). No database, no internet connection and no API keys are required: everything runs locally and in memory.
 
 ```bash
-cd nodejs-practice-pack
+cd bugs
 
 # 1. install the only dependency (Express)
 npm install
