@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-practice-pack",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "300+ HackerRank-style Node.js practice problems (bug-fix and implement-from-spec) with tests.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node scripts/run.js",
+    "solution": "node scripts/run.js --solution",
+    "list": "node scripts/list.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

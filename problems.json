@@ -1,0 +1,2025 @@
+[
+  {
+    "id": "001",
+    "dir": "001-blog-platform-creating-a-post-always-fails",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Blog Platform: Creating a post always fails"
+  },
+  {
+    "id": "002",
+    "dir": "002-project-tracker-creating-a-task-always-fails",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Project Tracker: Creating a task always fails"
+  },
+  {
+    "id": "003",
+    "dir": "003-event-board-creating-a-event-always-fails",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Event Board: Creating a event always fails"
+  },
+  {
+    "id": "004",
+    "dir": "004-blog-platform-valid-blog-post-is-rejected-with-a",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Blog Platform: Valid blog post is rejected with a server error"
+  },
+  {
+    "id": "005",
+    "dir": "005-online-academy-valid-course-is-rejected-with-a-s",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Online Academy: Valid course is rejected with a server error"
+  },
+  {
+    "id": "006",
+    "dir": "006-library-catalog-valid-book-entry-is-rejected-wit",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Library Catalog: Valid book entry is rejected with a server error"
+  },
+  {
+    "id": "007",
+    "dir": "007-blog-platform-create-response-does-not-contain-t",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Blog Platform: Create response does not contain the new post"
+  },
+  {
+    "id": "008",
+    "dir": "008-event-board-create-response-does-not-contain-the",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Event Board: Create response does not contain the new event"
+  },
+  {
+    "id": "009",
+    "dir": "009-q-a-forum-create-response-does-not-contain-the-n",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Q&A Forum: Create response does not contain the new question"
+  },
+  {
+    "id": "010",
+    "dir": "010-blog-platform-create-answers-with-the-wrong-stat",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Blog Platform: Create answers with the wrong status code"
+  },
+  {
+    "id": "011",
+    "dir": "011-library-catalog-create-answers-with-the-wrong-st",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Library Catalog: Create answers with the wrong status code"
+  },
+  {
+    "id": "012",
+    "dir": "012-blog-platform-excerpt-is-not-generated-automatic",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Blog Platform: excerpt is not generated automatically"
+  },
+  {
+    "id": "013",
+    "dir": "013-q-a-forum-preview-is-not-generated-automatically",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Q&A Forum: preview is not generated automatically"
+  },
+  {
+    "id": "014",
+    "dir": "014-recipe-sharing-app-summary-is-not-generated-auto",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Recipe Sharing App: summary is not generated automatically"
+  },
+  {
+    "id": "015",
+    "dir": "015-blog-platform-new-posts-are-not-published",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Blog Platform: New posts are not published"
+  },
+  {
+    "id": "016",
+    "dir": "016-recipe-sharing-app-new-recipes-are-not-published",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Recipe Sharing App: New recipes are not published"
+  },
+  {
+    "id": "017",
+    "dir": "017-project-tracker-new-tasks-are-not-open",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Project Tracker: New tasks are not open"
+  },
+  {
+    "id": "018",
+    "dir": "018-library-catalog-lister-is-returned-as-a-raw-id",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Library Catalog: lister is returned as a raw id"
+  },
+  {
+    "id": "019",
+    "dir": "019-recipe-sharing-app-chef-is-returned-as-a-raw-id",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Recipe Sharing App: chef is returned as a raw id"
+  },
+  {
+    "id": "020",
+    "dir": "020-project-tracker-assignee-is-returned-as-a-raw-id",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Project Tracker: assignee is returned as a raw id"
+  },
+  {
+    "id": "021",
+    "dir": "021-marketplace-wrong-default-value-for-stock",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Marketplace: Wrong default value for stock"
+  },
+  {
+    "id": "022",
+    "dir": "022-event-board-wrong-default-value-for-capacity",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Event Board: Wrong default value for capacity"
+  },
+  {
+    "id": "023",
+    "dir": "023-q-a-forum-wrong-default-value-for-votes",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Q&A Forum: Wrong default value for votes"
+  },
+  {
+    "id": "024",
+    "dir": "024-q-a-forum-every-authenticated-user-is-rejected",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Q&A Forum: Every authenticated user is rejected"
+  },
+  {
+    "id": "025",
+    "dir": "025-marketplace-every-authenticated-user-is-rejected",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Marketplace: Every authenticated user is rejected"
+  },
+  {
+    "id": "026",
+    "dir": "026-online-academy-every-authenticated-user-is-rejec",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Online Academy: Every authenticated user is rejected"
+  },
+  {
+    "id": "027",
+    "dir": "027-marketplace-wrong-status-code-for-unauthenticate",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Marketplace: Wrong status code for unauthenticated requests"
+  },
+  {
+    "id": "028",
+    "dir": "028-event-board-wrong-status-code-for-unauthenticate",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Event Board: Wrong status code for unauthenticated requests"
+  },
+  {
+    "id": "029",
+    "dir": "029-q-a-forum-wrong-status-code-for-unauthenticated-",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Q&A Forum: Wrong status code for unauthenticated requests"
+  },
+  {
+    "id": "030",
+    "dir": "030-library-catalog-invalid-ids-are-not-detected-on-",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Library Catalog: Invalid ids are not detected on update"
+  },
+  {
+    "id": "031",
+    "dir": "031-recipe-sharing-app-invalid-ids-are-not-detected-",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Recipe Sharing App: Invalid ids are not detected on update"
+  },
+  {
+    "id": "032",
+    "dir": "032-project-tracker-invalid-ids-are-not-detected-on-",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Project Tracker: Invalid ids are not detected on update"
+  },
+  {
+    "id": "033",
+    "dir": "033-q-a-forum-updating-a-missing-question-answers-20",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Q&A Forum: Updating a missing question answers 200"
+  },
+  {
+    "id": "034",
+    "dir": "034-marketplace-updating-a-missing-product-answers-2",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Marketplace: Updating a missing product answers 200"
+  },
+  {
+    "id": "035",
+    "dir": "035-online-academy-updating-a-missing-course-answers",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Online Academy: Updating a missing course answers 200"
+  },
+  {
+    "id": "036",
+    "dir": "036-online-academy-deleted-courses-are-still-there",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Online Academy: Deleted courses are still there"
+  },
+  {
+    "id": "037",
+    "dir": "037-q-a-forum-deleted-questions-are-still-there",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Q&A Forum: Deleted questions are still there"
+  },
+  {
+    "id": "038",
+    "dir": "038-recipe-sharing-app-deleted-recipes-are-still-the",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Recipe Sharing App: Deleted recipes are still there"
+  },
+  {
+    "id": "039",
+    "dir": "039-event-board-deleting-a-missing-event-answers-200",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Event Board: Deleting a missing event answers 200"
+  },
+  {
+    "id": "040",
+    "dir": "040-blog-platform-deleting-a-missing-post-answers-20",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Blog Platform: Deleting a missing post answers 200"
+  },
+  {
+    "id": "041",
+    "dir": "041-marketplace-deleting-a-missing-product-answers-2",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Marketplace: Deleting a missing product answers 200"
+  },
+  {
+    "id": "042",
+    "dir": "042-library-catalog-invalid-ids-are-not-detected-on-",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Library Catalog: Invalid ids are not detected on delete"
+  },
+  {
+    "id": "043",
+    "dir": "043-recipe-sharing-app-invalid-ids-are-not-detected-",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Recipe Sharing App: Invalid ids are not detected on delete"
+  },
+  {
+    "id": "044",
+    "dir": "044-project-tracker-invalid-ids-are-not-detected-on-",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Project Tracker: Invalid ids are not detected on delete"
+  },
+  {
+    "id": "045",
+    "dir": "045-q-a-forum-delete-answers-with-the-wrong-status-c",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Q&A Forum: Delete answers with the wrong status code"
+  },
+  {
+    "id": "046",
+    "dir": "046-marketplace-delete-answers-with-the-wrong-status",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Marketplace: Delete answers with the wrong status code"
+  },
+  {
+    "id": "047",
+    "dir": "047-online-academy-delete-answers-with-the-wrong-sta",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Online Academy: Delete answers with the wrong status code"
+  },
+  {
+    "id": "048",
+    "dir": "048-recipe-sharing-app-get-with-an-invalid-id-answer",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Recipe Sharing App: GET with an invalid id answers 404"
+  },
+  {
+    "id": "049",
+    "dir": "049-online-academy-get-with-an-invalid-id-answers-40",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Online Academy: GET with an invalid id answers 404"
+  },
+  {
+    "id": "050",
+    "dir": "050-library-catalog-get-with-an-invalid-id-answers-4",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Library Catalog: GET with an invalid id answers 404"
+  },
+  {
+    "id": "051",
+    "dir": "051-marketplace-get-of-an-unknown-product-crashes",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Marketplace: GET of an unknown product crashes"
+  },
+  {
+    "id": "052",
+    "dir": "052-event-board-get-of-an-unknown-event-crashes",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Event Board: GET of an unknown event crashes"
+  },
+  {
+    "id": "053",
+    "dir": "053-q-a-forum-get-of-an-unknown-question-crashes",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Q&A Forum: GET of an unknown question crashes"
+  },
+  {
+    "id": "054",
+    "dir": "054-project-tracker-get-by-id-returns-the-owner-as-a",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Project Tracker: GET by id returns the owner as a raw id"
+  },
+  {
+    "id": "055",
+    "dir": "055-library-catalog-get-by-id-returns-the-owner-as-a",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Library Catalog: GET by id returns the owner as a raw id"
+  },
+  {
+    "id": "056",
+    "dir": "056-blog-platform-get-by-id-returns-the-owner-as-a-r",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Blog Platform: GET by id returns the owner as a raw id"
+  },
+  {
+    "id": "057",
+    "dir": "057-online-academy-get-by-id-has-the-wrong-response-",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Online Academy: GET by id has the wrong response shape"
+  },
+  {
+    "id": "058",
+    "dir": "058-q-a-forum-get-by-id-has-the-wrong-response-shape",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Q&A Forum: GET by id has the wrong response shape"
+  },
+  {
+    "id": "059",
+    "dir": "059-recipe-sharing-app-get-by-id-has-the-wrong-respo",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Recipe Sharing App: GET by id has the wrong response shape"
+  },
+  {
+    "id": "060",
+    "dir": "060-event-board-hidden-events-show-up-in-the-public-",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Event Board: Hidden events show up in the public list"
+  },
+  {
+    "id": "061",
+    "dir": "061-blog-platform-hidden-posts-show-up-in-the-public",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Blog Platform: Hidden posts show up in the public list"
+  },
+  {
+    "id": "062",
+    "dir": "062-marketplace-hidden-products-show-up-in-the-publi",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Marketplace: Hidden products show up in the public list"
+  },
+  {
+    "id": "063",
+    "dir": "063-library-catalog-the-list-is-not-sorted",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Library Catalog: The list is not sorted"
+  },
+  {
+    "id": "064",
+    "dir": "064-recipe-sharing-app-the-list-is-not-sorted",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Recipe Sharing App: The list is not sorted"
+  },
+  {
+    "id": "065",
+    "dir": "065-project-tracker-the-list-is-not-sorted",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Project Tracker: The list is not sorted"
+  },
+  {
+    "id": "066",
+    "dir": "066-q-a-forum-the-list-is-sorted-in-the-wrong-direct",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Q&A Forum: The list is sorted in the wrong direction"
+  },
+  {
+    "id": "067",
+    "dir": "067-marketplace-the-list-is-sorted-in-the-wrong-dire",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Marketplace: The list is sorted in the wrong direction"
+  },
+  {
+    "id": "068",
+    "dir": "068-online-academy-the-list-is-sorted-in-the-wrong-d",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Online Academy: The list is sorted in the wrong direction"
+  },
+  {
+    "id": "069",
+    "dir": "069-blog-platform-filtering-by-category-does-nothing",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Blog Platform: Filtering by category does nothing"
+  },
+  {
+    "id": "070",
+    "dir": "070-project-tracker-filtering-by-priority-does-nothi",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Project Tracker: Filtering by priority does nothing"
+  },
+  {
+    "id": "071",
+    "dir": "071-event-board-filtering-by-type-does-nothing",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Event Board: Filtering by type does nothing"
+  },
+  {
+    "id": "072",
+    "dir": "072-q-a-forum-the-list-shows-raw-owner-ids",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Q&A Forum: The list shows raw owner ids"
+  },
+  {
+    "id": "073",
+    "dir": "073-marketplace-the-list-shows-raw-owner-ids",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Marketplace: The list shows raw owner ids"
+  },
+  {
+    "id": "074",
+    "dir": "074-online-academy-the-list-shows-raw-owner-ids",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Online Academy: The list shows raw owner ids"
+  },
+  {
+    "id": "075",
+    "dir": "075-blog-platform-my-posts-shows-everybody-s-posts",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Blog Platform: \"My posts\" shows everybody's posts"
+  },
+  {
+    "id": "076",
+    "dir": "076-project-tracker-my-tasks-shows-everybody-s-tasks",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Project Tracker: \"My tasks\" shows everybody's tasks"
+  },
+  {
+    "id": "077",
+    "dir": "077-event-board-my-events-shows-everybody-s-events",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Event Board: \"My events\" shows everybody's events"
+  },
+  {
+    "id": "078",
+    "dir": "078-online-academy-unknown-routes-do-not-return-the-",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Online Academy: Unknown routes do not return the JSON 404"
+  },
+  {
+    "id": "079",
+    "dir": "079-q-a-forum-unknown-routes-do-not-return-the-json-",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Q&A Forum: Unknown routes do not return the JSON 404"
+  },
+  {
+    "id": "080",
+    "dir": "080-recipe-sharing-app-unknown-routes-do-not-return-",
+    "track": "Express API bug-fix",
+    "difficulty": "Easy",
+    "title": "Recipe Sharing App: Unknown routes do not return the JSON 404"
+  },
+  {
+    "id": "081",
+    "dir": "081-blog-platform-auto-generated-excerpt-is-slightly",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Blog Platform: Auto-generated excerpt is slightly wrong"
+  },
+  {
+    "id": "082",
+    "dir": "082-marketplace-auto-generated-summary-is-slightly-w",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Marketplace: Auto-generated summary is slightly wrong"
+  },
+  {
+    "id": "083",
+    "dir": "083-blog-platform-the-client-can-decide-the-value-of",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Blog Platform: The client can decide the value of published"
+  },
+  {
+    "id": "084",
+    "dir": "084-marketplace-the-client-can-decide-the-value-of-a",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Marketplace: The client can decide the value of active"
+  },
+  {
+    "id": "085",
+    "dir": "085-online-academy-the-client-can-decide-the-value-o",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Online Academy: The client can decide the value of enrolling"
+  },
+  {
+    "id": "086",
+    "dir": "086-blog-platform-tags-sent-by-the-client-are-lost",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Blog Platform: tags sent by the client are lost"
+  },
+  {
+    "id": "087",
+    "dir": "087-project-tracker-labels-sent-by-the-client-are-lo",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Project Tracker: labels sent by the client are lost"
+  },
+  {
+    "id": "088",
+    "dir": "088-event-board-tags-sent-by-the-client-are-lost",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Event Board: tags sent by the client are lost"
+  },
+  {
+    "id": "089",
+    "dir": "089-recipe-sharing-app-cooktime-is-ignored-on-creati",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Recipe Sharing App: cookTime is ignored on creation"
+  },
+  {
+    "id": "090",
+    "dir": "090-online-academy-durationhours-is-ignored-on-creat",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Online Academy: durationHours is ignored on creation"
+  },
+  {
+    "id": "091",
+    "dir": "091-library-catalog-pages-is-ignored-on-creation",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Library Catalog: pages is ignored on creation"
+  },
+  {
+    "id": "092",
+    "dir": "092-marketplace-name-keeps-leading-and-trailing-spac",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Marketplace: name keeps leading and trailing spaces"
+  },
+  {
+    "id": "093",
+    "dir": "093-event-board-name-keeps-leading-and-trailing-spac",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Event Board: name keeps leading and trailing spaces"
+  },
+  {
+    "id": "094",
+    "dir": "094-q-a-forum-title-keeps-leading-and-trailing-space",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Q&A Forum: title keeps leading and trailing spaces"
+  },
+  {
+    "id": "095",
+    "dir": "095-project-tracker-whitespace-only-title-gives-the-",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Project Tracker: Whitespace-only title gives the wrong error"
+  },
+  {
+    "id": "096",
+    "dir": "096-library-catalog-whitespace-only-title-gives-the-",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Library Catalog: Whitespace-only title gives the wrong error"
+  },
+  {
+    "id": "097",
+    "dir": "097-blog-platform-whitespace-only-title-gives-the-wr",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Blog Platform: Whitespace-only title gives the wrong error"
+  },
+  {
+    "id": "098",
+    "dir": "098-online-academy-missing-syllabus-returns-the-wron",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Online Academy: Missing syllabus returns the wrong error message"
+  },
+  {
+    "id": "099",
+    "dir": "099-q-a-forum-missing-body-returns-the-wrong-error-m",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Q&A Forum: Missing body returns the wrong error message"
+  },
+  {
+    "id": "100",
+    "dir": "100-recipe-sharing-app-missing-instructions-returns-",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Recipe Sharing App: Missing instructions returns the wrong error message"
+  },
+  {
+    "id": "101",
+    "dir": "101-q-a-forum-created-questions-disappear",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Q&A Forum: Created questions disappear"
+  },
+  {
+    "id": "102",
+    "dir": "102-marketplace-created-products-disappear",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Marketplace: Created products disappear"
+  },
+  {
+    "id": "103",
+    "dir": "103-online-academy-created-courses-disappear",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Online Academy: Created courses disappear"
+  },
+  {
+    "id": "104",
+    "dir": "104-blog-platform-invalid-category-values-are-accept",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Blog Platform: Invalid category values are accepted"
+  },
+  {
+    "id": "105",
+    "dir": "105-project-tracker-invalid-priority-values-are-acce",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Project Tracker: Invalid priority values are accepted"
+  },
+  {
+    "id": "106",
+    "dir": "106-event-board-invalid-type-values-are-accepted",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Event Board: Invalid type values are accepted"
+  },
+  {
+    "id": "107",
+    "dir": "107-recipe-sharing-app-cooktime-accepts-strings-and-",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Recipe Sharing App: cookTime accepts strings and negative numbers"
+  },
+  {
+    "id": "108",
+    "dir": "108-online-academy-durationhours-accepts-strings-and",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Online Academy: durationHours accepts strings and negative numbers"
+  },
+  {
+    "id": "109",
+    "dir": "109-library-catalog-pages-accepts-strings-and-negati",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Library Catalog: pages accepts strings and negative numbers"
+  },
+  {
+    "id": "110",
+    "dir": "110-online-academy-validation-errors-are-reported-as",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Online Academy: Validation errors are reported as server errors"
+  },
+  {
+    "id": "111",
+    "dir": "111-q-a-forum-validation-errors-are-reported-as-serv",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Q&A Forum: Validation errors are reported as server errors"
+  },
+  {
+    "id": "112",
+    "dir": "112-recipe-sharing-app-validation-errors-are-reporte",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Recipe Sharing App: Validation errors are reported as server errors"
+  },
+  {
+    "id": "113",
+    "dir": "113-event-board-the-api-never-sees-the-request-body",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Event Board: The API never sees the request body"
+  },
+  {
+    "id": "114",
+    "dir": "114-blog-platform-the-api-never-sees-the-request-bod",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Blog Platform: The API never sees the request body"
+  },
+  {
+    "id": "115",
+    "dir": "115-marketplace-the-api-never-sees-the-request-body",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Marketplace: The API never sees the request body"
+  },
+  {
+    "id": "116",
+    "dir": "116-library-catalog-creating-without-logging-in-cras",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Library Catalog: Creating without logging in crashes the server"
+  },
+  {
+    "id": "117",
+    "dir": "117-recipe-sharing-app-creating-without-logging-in-c",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Recipe Sharing App: Creating without logging in crashes the server"
+  },
+  {
+    "id": "118",
+    "dir": "118-project-tracker-creating-without-logging-in-cras",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Project Tracker: Creating without logging in crashes the server"
+  },
+  {
+    "id": "119",
+    "dir": "119-blog-platform-unknown-user-ids-crash-the-server",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Blog Platform: Unknown user ids crash the server"
+  },
+  {
+    "id": "120",
+    "dir": "120-project-tracker-unknown-user-ids-crash-the-serve",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Project Tracker: Unknown user ids crash the server"
+  },
+  {
+    "id": "121",
+    "dir": "121-event-board-unknown-user-ids-crash-the-server",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Event Board: Unknown user ids crash the server"
+  },
+  {
+    "id": "122",
+    "dir": "122-recipe-sharing-app-authenticated-requests-hang-f",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Recipe Sharing App: Authenticated requests hang forever"
+  },
+  {
+    "id": "123",
+    "dir": "123-online-academy-authenticated-requests-hang-forev",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Online Academy: Authenticated requests hang forever"
+  },
+  {
+    "id": "124",
+    "dir": "124-library-catalog-authenticated-requests-hang-fore",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Library Catalog: Authenticated requests hang forever"
+  },
+  {
+    "id": "125",
+    "dir": "125-project-tracker-anyone-can-edit-any-task",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Project Tracker: Anyone can edit any task"
+  },
+  {
+    "id": "126",
+    "dir": "126-library-catalog-anyone-can-edit-any-book",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Library Catalog: Anyone can edit any book"
+  },
+  {
+    "id": "127",
+    "dir": "127-blog-platform-anyone-can-edit-any-post",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Blog Platform: Anyone can edit any post"
+  },
+  {
+    "id": "128",
+    "dir": "128-online-academy-updates-are-not-persisted",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Online Academy: Updates are not persisted"
+  },
+  {
+    "id": "129",
+    "dir": "129-q-a-forum-updates-are-not-persisted",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Q&A Forum: Updates are not persisted"
+  },
+  {
+    "id": "130",
+    "dir": "130-recipe-sharing-app-updates-are-not-persisted",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Recipe Sharing App: Updates are not persisted"
+  },
+  {
+    "id": "131",
+    "dir": "131-event-board-updating-one-field-breaks-the-update",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Event Board: Updating one field breaks the update"
+  },
+  {
+    "id": "132",
+    "dir": "132-blog-platform-updating-one-field-breaks-the-upda",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Blog Platform: Updating one field breaks the update"
+  },
+  {
+    "id": "133",
+    "dir": "133-marketplace-updating-one-field-breaks-the-update",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Marketplace: Updating one field breaks the update"
+  },
+  {
+    "id": "134",
+    "dir": "134-blog-platform-updatedat-never-changes",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Blog Platform: `updatedAt` never changes"
+  },
+  {
+    "id": "135",
+    "dir": "135-project-tracker-updatedat-never-changes",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Project Tracker: `updatedAt` never changes"
+  },
+  {
+    "id": "136",
+    "dir": "136-event-board-updatedat-never-changes",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Event Board: `updatedAt` never changes"
+  },
+  {
+    "id": "137",
+    "dir": "137-recipe-sharing-app-createdat-changes-when-a-reci",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Recipe Sharing App: `createdAt` changes when a recipe is edited"
+  },
+  {
+    "id": "138",
+    "dir": "138-online-academy-createdat-changes-when-a-course-i",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Online Academy: `createdAt` changes when a course is edited"
+  },
+  {
+    "id": "139",
+    "dir": "139-library-catalog-createdat-changes-when-a-book-is",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Library Catalog: `createdAt` changes when a book is edited"
+  },
+  {
+    "id": "140",
+    "dir": "140-project-tracker-anyone-can-delete-any-task",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Project Tracker: Anyone can delete any task"
+  },
+  {
+    "id": "141",
+    "dir": "141-library-catalog-anyone-can-delete-any-book",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Library Catalog: Anyone can delete any book"
+  },
+  {
+    "id": "142",
+    "dir": "142-blog-platform-anyone-can-delete-any-post",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Blog Platform: Anyone can delete any post"
+  },
+  {
+    "id": "143",
+    "dir": "143-recipe-sharing-app-page-1-skips-the-first-result",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Recipe Sharing App: Page 1 skips the first results"
+  },
+  {
+    "id": "144",
+    "dir": "144-online-academy-page-1-skips-the-first-results",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Online Academy: Page 1 skips the first results"
+  },
+  {
+    "id": "145",
+    "dir": "145-library-catalog-page-1-skips-the-first-results",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Library Catalog: Page 1 skips the first results"
+  },
+  {
+    "id": "146",
+    "dir": "146-marketplace-totalpages-is-too-small",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Marketplace: `totalPages` is too small"
+  },
+  {
+    "id": "147",
+    "dir": "147-event-board-totalpages-is-too-small",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Event Board: `totalPages` is too small"
+  },
+  {
+    "id": "148",
+    "dir": "148-q-a-forum-totalpages-is-too-small",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Q&A Forum: `totalPages` is too small"
+  },
+  {
+    "id": "149",
+    "dir": "149-project-tracker-search-is-case-sensitive",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Project Tracker: Search is case-sensitive"
+  },
+  {
+    "id": "150",
+    "dir": "150-library-catalog-search-is-case-sensitive",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Library Catalog: Search is case-sensitive"
+  },
+  {
+    "id": "151",
+    "dir": "151-blog-platform-search-is-case-sensitive",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Blog Platform: Search is case-sensitive"
+  },
+  {
+    "id": "152",
+    "dir": "152-online-academy-the-limit-parameter-is-ignored",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Online Academy: The `limit` parameter is ignored"
+  },
+  {
+    "id": "153",
+    "dir": "153-q-a-forum-the-limit-parameter-is-ignored",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Q&A Forum: The `limit` parameter is ignored"
+  },
+  {
+    "id": "154",
+    "dir": "154-recipe-sharing-app-the-limit-parameter-is-ignore",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Recipe Sharing App: The `limit` parameter is ignored"
+  },
+  {
+    "id": "155",
+    "dir": "155-event-board-there-is-no-maximum-page-size",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Event Board: There is no maximum page size"
+  },
+  {
+    "id": "156",
+    "dir": "156-blog-platform-there-is-no-maximum-page-size",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Blog Platform: There is no maximum page size"
+  },
+  {
+    "id": "157",
+    "dir": "157-marketplace-there-is-no-maximum-page-size",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Marketplace: There is no maximum page size"
+  },
+  {
+    "id": "158",
+    "dir": "158-library-catalog-invalid-page-limit-values-are-no",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Library Catalog: Invalid `page`/`limit` values are not rejected"
+  },
+  {
+    "id": "159",
+    "dir": "159-recipe-sharing-app-invalid-page-limit-values-are",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Recipe Sharing App: Invalid `page`/`limit` values are not rejected"
+  },
+  {
+    "id": "160",
+    "dir": "160-project-tracker-invalid-page-limit-values-are-no",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Project Tracker: Invalid `page`/`limit` values are not rejected"
+  },
+  {
+    "id": "161",
+    "dir": "161-recipe-sharing-app-my-recipes-hides-my-drafts",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Recipe Sharing App: \"My recipes\" hides my drafts"
+  },
+  {
+    "id": "162",
+    "dir": "162-online-academy-my-courses-hides-my-drafts",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Online Academy: \"My courses\" hides my drafts"
+  },
+  {
+    "id": "163",
+    "dir": "163-library-catalog-my-books-hides-my-drafts",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Library Catalog: \"My books\" hides my drafts"
+  },
+  {
+    "id": "164",
+    "dir": "164-project-tracker-malformed-json-causes-a-500",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Project Tracker: Malformed JSON causes a 500"
+  },
+  {
+    "id": "165",
+    "dir": "165-library-catalog-malformed-json-causes-a-500",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Library Catalog: Malformed JSON causes a 500"
+  },
+  {
+    "id": "166",
+    "dir": "166-blog-platform-malformed-json-causes-a-500",
+    "track": "Express API bug-fix",
+    "difficulty": "Medium",
+    "title": "Blog Platform: Malformed JSON causes a 500"
+  },
+  {
+    "id": "167",
+    "dir": "167-event-board-users-can-create-events-in-someone-e",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Event Board: Users can create events in someone else's name"
+  },
+  {
+    "id": "168",
+    "dir": "168-blog-platform-users-can-create-posts-in-someone-",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Blog Platform: Users can create posts in someone else's name"
+  },
+  {
+    "id": "169",
+    "dir": "169-marketplace-users-can-create-products-in-someone",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Marketplace: Users can create products in someone else's name"
+  },
+  {
+    "id": "170",
+    "dir": "170-project-tracker-the-assignee-object-leaks-privat",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Project Tracker: The assignee object leaks private user data"
+  },
+  {
+    "id": "171",
+    "dir": "171-library-catalog-the-lister-object-leaks-private-",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Library Catalog: The lister object leaks private user data"
+  },
+  {
+    "id": "172",
+    "dir": "172-blog-platform-the-author-object-leaks-private-us",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Blog Platform: The author object leaks private user data"
+  },
+  {
+    "id": "173",
+    "dir": "173-marketplace-owners-can-be-changed-through-the-up",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Marketplace: Owners can be changed through the update endpoint"
+  },
+  {
+    "id": "174",
+    "dir": "174-event-board-owners-can-be-changed-through-the-up",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Event Board: Owners can be changed through the update endpoint"
+  },
+  {
+    "id": "175",
+    "dir": "175-q-a-forum-owners-can-be-changed-through-the-upda",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Q&A Forum: Owners can be changed through the update endpoint"
+  },
+  {
+    "id": "176",
+    "dir": "176-blog-platform-deleting-a-post-removes-the-wrong-",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Blog Platform: Deleting a post removes the wrong one"
+  },
+  {
+    "id": "177",
+    "dir": "177-project-tracker-deleting-a-task-removes-the-wron",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Project Tracker: Deleting a task removes the wrong one"
+  },
+  {
+    "id": "178",
+    "dir": "178-event-board-deleting-a-event-removes-the-wrong-o",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Event Board: Deleting a event removes the wrong one"
+  },
+  {
+    "id": "179",
+    "dir": "179-marketplace-get-mine-is-treated-as-an-id",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Marketplace: `GET /mine` is treated as an id"
+  },
+  {
+    "id": "180",
+    "dir": "180-event-board-get-mine-is-treated-as-an-id",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Event Board: `GET /mine` is treated as an id"
+  },
+  {
+    "id": "181",
+    "dir": "181-q-a-forum-get-mine-is-treated-as-an-id",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Q&A Forum: `GET /mine` is treated as an id"
+  },
+  {
+    "id": "182",
+    "dir": "182-blog-platform-half-broken-create-endpoint",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Blog Platform: Half-broken create endpoint"
+  },
+  {
+    "id": "183",
+    "dir": "183-marketplace-half-broken-create-endpoint",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Marketplace: Half-broken create endpoint"
+  },
+  {
+    "id": "184",
+    "dir": "184-online-academy-half-broken-create-endpoint",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Online Academy: Half-broken create endpoint"
+  },
+  {
+    "id": "185",
+    "dir": "185-recipe-sharing-app-security-review-findings",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Recipe Sharing App: Security review findings"
+  },
+  {
+    "id": "186",
+    "dir": "186-project-tracker-security-review-findings",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Project Tracker: Security review findings"
+  },
+  {
+    "id": "187",
+    "dir": "187-event-board-security-review-findings",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Event Board: Security review findings"
+  },
+  {
+    "id": "188",
+    "dir": "188-marketplace-the-listing-page-is-a-mess",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Marketplace: The listing page is a mess"
+  },
+  {
+    "id": "189",
+    "dir": "189-online-academy-the-listing-page-is-a-mess",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Online Academy: The listing page is a mess"
+  },
+  {
+    "id": "190",
+    "dir": "190-library-catalog-the-listing-page-is-a-mess",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Library Catalog: The listing page is a mess"
+  },
+  {
+    "id": "191",
+    "dir": "191-project-tracker-ownership-rules-are-not-enforced",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Project Tracker: Ownership rules are not enforced"
+  },
+  {
+    "id": "192",
+    "dir": "192-event-board-ownership-rules-are-not-enforced",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Event Board: Ownership rules are not enforced"
+  },
+  {
+    "id": "193",
+    "dir": "193-q-a-forum-ownership-rules-are-not-enforced",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Q&A Forum: Ownership rules are not enforced"
+  },
+  {
+    "id": "194",
+    "dir": "194-online-academy-full-crud-triage",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Online Academy: Full CRUD triage"
+  },
+  {
+    "id": "195",
+    "dir": "195-library-catalog-full-crud-triage",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Library Catalog: Full CRUD triage"
+  },
+  {
+    "id": "196",
+    "dir": "196-blog-platform-full-crud-triage",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Blog Platform: Full CRUD triage"
+  },
+  {
+    "id": "197",
+    "dir": "197-implement-a-request-logger-middleware",
+    "track": "Express middleware & routing",
+    "difficulty": "Easy",
+    "title": "Implement a request logger middleware"
+  },
+  {
+    "id": "198",
+    "dir": "198-implement-a-request-id-middleware",
+    "track": "Express middleware & routing",
+    "difficulty": "Easy",
+    "title": "Implement a request-id middleware"
+  },
+  {
+    "id": "199",
+    "dir": "199-implement-a-minimal-cors-middleware-with-preflig",
+    "track": "Express middleware & routing",
+    "difficulty": "Easy",
+    "title": "Implement a minimal CORS middleware with preflight support"
+  },
+  {
+    "id": "200",
+    "dir": "200-implement-a-centralized-json-error-handling-midd",
+    "track": "Express middleware & routing",
+    "difficulty": "Easy",
+    "title": "Implement a centralized JSON error-handling middleware"
+  },
+  {
+    "id": "201",
+    "dir": "201-implement-a-paginate-helper-that-rejects-invalid",
+    "track": "Express middleware & routing",
+    "difficulty": "Easy",
+    "title": "Implement a paginate helper that rejects invalid query values"
+  },
+  {
+    "id": "202",
+    "dir": "202-fix-users-me-is-swallowed-by-the-users-id-route",
+    "track": "Express middleware & routing",
+    "difficulty": "Easy",
+    "title": "Fix: /users/me is swallowed by the /users/:id route"
+  },
+  {
+    "id": "203",
+    "dir": "203-fix-every-route-answers-route-not-found",
+    "track": "Express middleware & routing",
+    "difficulty": "Easy",
+    "title": "Fix: every route answers \"Route not found\""
+  },
+  {
+    "id": "204",
+    "dir": "204-implement-a-response-envelope-middleware-res-ok-",
+    "track": "Express middleware & routing",
+    "difficulty": "Easy",
+    "title": "Implement a response envelope middleware (res.ok, res.created, res.fail)"
+  },
+  {
+    "id": "205",
+    "dir": "205-implement-an-asynchandler-wrapper-that-forwards-",
+    "track": "Express middleware & routing",
+    "difficulty": "Medium",
+    "title": "Implement an asyncHandler wrapper that forwards errors to next()"
+  },
+  {
+    "id": "206",
+    "dir": "206-implement-a-schema-based-request-body-validation",
+    "track": "Express middleware & routing",
+    "difficulty": "Medium",
+    "title": "Implement a schema-based request body validation middleware"
+  },
+  {
+    "id": "207",
+    "dir": "207-implement-a-content-length-based-body-size-limit",
+    "track": "Express middleware & routing",
+    "difficulty": "Medium",
+    "title": "Implement a Content-Length based body size limit middleware"
+  },
+  {
+    "id": "208",
+    "dir": "208-implement-etag-and-conditional-get-304-for-json-",
+    "track": "Express middleware & routing",
+    "difficulty": "Medium",
+    "title": "Implement ETag and conditional GET (304) for JSON responses"
+  },
+  {
+    "id": "209",
+    "dir": "209-implement-an-api-version-router-api-v1-api-v2",
+    "track": "Express middleware & routing",
+    "difficulty": "Medium",
+    "title": "Implement an API version router (/api/v1, /api/v2)"
+  },
+  {
+    "id": "210",
+    "dir": "210-fix-notes-api-ignores-the-body-and-skips-authent",
+    "track": "Express middleware & routing",
+    "difficulty": "Medium",
+    "title": "Fix: notes API ignores the body and skips authentication"
+  },
+  {
+    "id": "211",
+    "dir": "211-fix-unauthorized-requests-still-reach-the-handle",
+    "track": "Express middleware & routing",
+    "difficulty": "Medium",
+    "title": "Fix: unauthorized requests still reach the handler and some requests hang"
+  },
+  {
+    "id": "212",
+    "dir": "212-implement-a-token-bucket-rate-limiter-with-an-in",
+    "track": "Express middleware & routing",
+    "difficulty": "Hard",
+    "title": "Implement a token-bucket rate limiter with an injectable clock"
+  },
+  {
+    "id": "213",
+    "dir": "213-implement-delay-ms-value",
+    "track": "Async & promises",
+    "difficulty": "Easy",
+    "title": "Implement delay(ms, value)"
+  },
+  {
+    "id": "214",
+    "dir": "214-implement-mapseries-sequential-async-map",
+    "track": "Async & promises",
+    "difficulty": "Easy",
+    "title": "Implement mapSeries (sequential async map)"
+  },
+  {
+    "id": "215",
+    "dir": "215-fix-sendall-resolves-before-the-emails-are-sent",
+    "track": "Async & promises",
+    "difficulty": "Easy",
+    "title": "Fix: sendAll resolves before the emails are sent"
+  },
+  {
+    "id": "216",
+    "dir": "216-fix-full-names-show-up-as-undefined-undefined",
+    "track": "Async & promises",
+    "difficulty": "Easy",
+    "title": "Fix: full names show up as \"undefined undefined\""
+  },
+  {
+    "id": "217",
+    "dir": "217-fix-async-filter-keeps-every-item",
+    "track": "Async & promises",
+    "difficulty": "Easy",
+    "title": "Fix: async filter keeps every item"
+  },
+  {
+    "id": "218",
+    "dir": "218-implement-promisify-for-node-style-callbacks",
+    "track": "Async & promises",
+    "difficulty": "Easy",
+    "title": "Implement promisify for Node-style callbacks"
+  },
+  {
+    "id": "219",
+    "dir": "219-re-implement-promise-allsettled",
+    "track": "Async & promises",
+    "difficulty": "Easy",
+    "title": "Re-implement Promise.allSettled"
+  },
+  {
+    "id": "220",
+    "dir": "220-implement-a-leading-edge-throttle-with-an-inject",
+    "track": "Async & promises",
+    "difficulty": "Easy",
+    "title": "Implement a leading-edge throttle with an injectable clock"
+  },
+  {
+    "id": "221",
+    "dir": "221-fix-scheduled-log-entries-appear-in-the-wrong-or",
+    "track": "Async & promises",
+    "difficulty": "Easy",
+    "title": "Fix: scheduled log entries appear in the wrong order"
+  },
+  {
+    "id": "222",
+    "dir": "222-fix-try-catch-and-finally-do-not-work-with-async",
+    "track": "Async & promises",
+    "difficulty": "Medium",
+    "title": "Fix: try/catch and finally do not work with async tasks"
+  },
+  {
+    "id": "223",
+    "dir": "223-implement-promisetimeout-with-timeouterror",
+    "track": "Async & promises",
+    "difficulty": "Medium",
+    "title": "Implement promiseTimeout with TimeoutError"
+  },
+  {
+    "id": "224",
+    "dir": "224-implement-retry-with-exponential-backoff",
+    "track": "Async & promises",
+    "difficulty": "Medium",
+    "title": "Implement retry with exponential backoff"
+  },
+  {
+    "id": "225",
+    "dir": "225-implement-plimit-concurrency-limiter",
+    "track": "Async & promises",
+    "difficulty": "Medium",
+    "title": "Implement pLimit (concurrency limiter)"
+  },
+  {
+    "id": "226",
+    "dir": "226-implement-a-fail-fast-promise-pool-runpool",
+    "track": "Async & promises",
+    "difficulty": "Medium",
+    "title": "Implement a fail-fast promise pool (runPool)"
+  },
+  {
+    "id": "227",
+    "dir": "227-implement-debounce-with-an-injectable-scheduler",
+    "track": "Async & promises",
+    "difficulty": "Medium",
+    "title": "Implement debounce with an injectable scheduler"
+  },
+  {
+    "id": "228",
+    "dir": "228-implement-an-async-mutex",
+    "track": "Async & promises",
+    "difficulty": "Medium",
+    "title": "Implement an async Mutex"
+  },
+  {
+    "id": "229",
+    "dir": "229-implement-memoizeasync-with-in-flight-sharing",
+    "track": "Async & promises",
+    "difficulty": "Medium",
+    "title": "Implement memoizeAsync with in-flight sharing"
+  },
+  {
+    "id": "230",
+    "dir": "230-implement-abortable-promise-signal",
+    "track": "Async & promises",
+    "difficulty": "Medium",
+    "title": "Implement abortable(promise, signal)"
+  },
+  {
+    "id": "231",
+    "dir": "231-re-implement-promise-any",
+    "track": "Async & promises",
+    "difficulty": "Medium",
+    "title": "Re-implement Promise.any"
+  },
+  {
+    "id": "232",
+    "dir": "232-fix-dashboard-promise-chain-does-not-wait-for-it",
+    "track": "Async & promises",
+    "difficulty": "Medium",
+    "title": "Fix: dashboard promise chain does not wait for its steps"
+  },
+  {
+    "id": "233",
+    "dir": "233-fix-concurrent-withdrawals-overdraw-the-account-",
+    "track": "Async & promises",
+    "difficulty": "Hard",
+    "title": "Fix: concurrent withdrawals overdraw the account (race condition)"
+  },
+  {
+    "id": "234",
+    "dir": "234-implement-createbatcher-dataloader-style-batchin",
+    "track": "Async & promises",
+    "difficulty": "Hard",
+    "title": "Implement createBatcher (DataLoader-style batching)"
+  },
+  {
+    "id": "235",
+    "dir": "235-implement-a-dependency-aware-task-runner",
+    "track": "Async & promises",
+    "difficulty": "Hard",
+    "title": "Implement a dependency-aware task runner"
+  },
+  {
+    "id": "236",
+    "dir": "236-implement-a-fair-counting-semaphore",
+    "track": "Async & promises",
+    "difficulty": "Hard",
+    "title": "Implement a fair counting Semaphore"
+  },
+  {
+    "id": "237",
+    "dir": "237-fix-change-listeners-see-stale-counter-values",
+    "track": "Events & streams",
+    "difficulty": "Easy",
+    "title": "Fix: change listeners see stale counter values"
+  },
+  {
+    "id": "238",
+    "dir": "238-implement-arraytostream-object-mode-readable",
+    "track": "Events & streams",
+    "difficulty": "Easy",
+    "title": "Implement arrayToStream (object-mode Readable)"
+  },
+  {
+    "id": "239",
+    "dir": "239-implement-collect-stream-to-gather-all-chunks",
+    "track": "Events & streams",
+    "difficulty": "Easy",
+    "title": "Implement collect(stream) to gather all chunks"
+  },
+  {
+    "id": "240",
+    "dir": "240-implement-an-upper-case-transform-stream",
+    "track": "Events & streams",
+    "difficulty": "Easy",
+    "title": "Implement an upper-case Transform stream"
+  },
+  {
+    "id": "241",
+    "dir": "241-implement-tinyemitter-a-mini-eventemitter",
+    "track": "Events & streams",
+    "difficulty": "Medium",
+    "title": "Implement TinyEmitter (a mini EventEmitter)"
+  },
+  {
+    "id": "242",
+    "dir": "242-fix-readtext-garbles-accented-and-non-latin-char",
+    "track": "Events & streams",
+    "difficulty": "Medium",
+    "title": "Fix: readText garbles accented and non-Latin characters"
+  },
+  {
+    "id": "243",
+    "dir": "243-implement-a-line-splitting-transform-that-surviv",
+    "track": "Events & streams",
+    "difficulty": "Medium",
+    "title": "Implement a line-splitting Transform that survives chunk boundaries"
+  },
+  {
+    "id": "244",
+    "dir": "244-implement-an-async-filter-transform",
+    "track": "Events & streams",
+    "difficulty": "Medium",
+    "title": "Implement an async filter Transform"
+  },
+  {
+    "id": "245",
+    "dir": "245-implement-groupby-items-keyorfn",
+    "track": "Core JS utilities",
+    "difficulty": "Easy",
+    "title": "Implement groupBy(items, keyOrFn)"
+  },
+  {
+    "id": "246",
+    "dir": "246-implement-flatten-array-depth",
+    "track": "Core JS utilities",
+    "difficulty": "Easy",
+    "title": "Implement flatten(array, depth)"
+  },
+  {
+    "id": "247",
+    "dir": "247-implement-pick-and-omit",
+    "track": "Core JS utilities",
+    "difficulty": "Easy",
+    "title": "Implement pick and omit"
+  },
+  {
+    "id": "248",
+    "dir": "248-implement-slugify-text",
+    "track": "Core JS utilities",
+    "difficulty": "Easy",
+    "title": "Implement slugify(text)"
+  },
+  {
+    "id": "249",
+    "dir": "249-implement-camelcase-snake-case-and-kebab-case-co",
+    "track": "Core JS utilities",
+    "difficulty": "Easy",
+    "title": "Implement camelCase, snake_case and kebab-case converters"
+  },
+  {
+    "id": "250",
+    "dir": "250-implement-a-tiny-mustache-template-engine",
+    "track": "Core JS utilities",
+    "difficulty": "Medium",
+    "title": "Implement a tiny {{mustache}} template engine"
+  },
+  {
+    "id": "251",
+    "dir": "251-implement-query-string-parse-and-stringify",
+    "track": "Core JS utilities",
+    "difficulty": "Medium",
+    "title": "Implement query string parse and stringify"
+  },
+  {
+    "id": "252",
+    "dir": "252-implement-deepclone-with-dates-maps-sets-and-cyc",
+    "track": "Core JS utilities",
+    "difficulty": "Hard",
+    "title": "Implement deepClone with Dates, Maps, Sets and cycles"
+  },
+  {
+    "id": "253",
+    "dir": "253-implement-deepequal-for-objects-collections-and-",
+    "track": "Core JS utilities",
+    "difficulty": "Hard",
+    "title": "Implement deepEqual for objects, collections and cycles"
+  },
+  {
+    "id": "254",
+    "dir": "254-implement-groupanagrams-words",
+    "track": "Algorithms & data structures",
+    "difficulty": "Easy",
+    "title": "Implement groupAnagrams(words)"
+  },
+  {
+    "id": "255",
+    "dir": "255-implement-isvalidbrackets-s",
+    "track": "Algorithms & data structures",
+    "difficulty": "Easy",
+    "title": "Implement isValidBrackets(s)"
+  },
+  {
+    "id": "256",
+    "dir": "256-implement-lowerbound-and-upperbound",
+    "track": "Algorithms & data structures",
+    "difficulty": "Easy",
+    "title": "Implement lowerBound and upperBound"
+  },
+  {
+    "id": "257",
+    "dir": "257-fix-binarysearch",
+    "track": "Algorithms & data structures",
+    "difficulty": "Easy",
+    "title": "Fix binarySearch"
+  },
+  {
+    "id": "258",
+    "dir": "258-fix-sortbyscore",
+    "track": "Algorithms & data structures",
+    "difficulty": "Easy",
+    "title": "Fix sortByScore"
+  },
+  {
+    "id": "259",
+    "dir": "259-fix-mergeintervals",
+    "track": "Algorithms & data structures",
+    "difficulty": "Medium",
+    "title": "Fix mergeIntervals"
+  },
+  {
+    "id": "260",
+    "dir": "260-top-k-frequent-elements",
+    "track": "Algorithms & data structures",
+    "difficulty": "Medium",
+    "title": "Top K frequent elements"
+  },
+  {
+    "id": "261",
+    "dir": "261-sliding-window-rate-limiter-with-injected-clock",
+    "track": "Algorithms & data structures",
+    "difficulty": "Medium",
+    "title": "Sliding window rate limiter with injected clock"
+  },
+  {
+    "id": "262",
+    "dir": "262-implement-safeequal-with-constant-time-compariso",
+    "track": "Security & auth",
+    "difficulty": "Easy",
+    "title": "Implement safeEqual with constant-time comparison"
+  },
+  {
+    "id": "263",
+    "dir": "263-fix-escapehtml-leaves-quotes-and-repeated-charac",
+    "track": "Security & auth",
+    "difficulty": "Easy",
+    "title": "Fix: escapeHtml leaves quotes and repeated characters unescaped"
+  },
+  {
+    "id": "264",
+    "dir": "264-implement-a-password-policy-checker",
+    "track": "Security & auth",
+    "difficulty": "Easy",
+    "title": "Implement a password policy checker"
+  },
+  {
+    "id": "265",
+    "dir": "265-implement-role-based-permission-checks-with-inhe",
+    "track": "Security & auth",
+    "difficulty": "Easy",
+    "title": "Implement role-based permission checks with inheritance"
+  },
+  {
+    "id": "266",
+    "dir": "266-fix-any-user-can-make-themselves-admin-through-p",
+    "track": "Security & auth",
+    "difficulty": "Easy",
+    "title": "Fix: any user can make themselves admin through profile update"
+  },
+  {
+    "id": "267",
+    "dir": "267-implement-hmac-signed-tokens-with-expiry",
+    "track": "Security & auth",
+    "difficulty": "Medium",
+    "title": "Implement HMAC-signed tokens with expiry"
+  },
+  {
+    "id": "268",
+    "dir": "268-implement-a-parameterized-sql-select-builder",
+    "track": "Security & auth",
+    "difficulty": "Medium",
+    "title": "Implement a parameterized SQL select builder"
+  },
+  {
+    "id": "269",
+    "dir": "269-implement-csrf-tokens-bound-to-a-session",
+    "track": "Security & auth",
+    "difficulty": "Medium",
+    "title": "Implement CSRF tokens bound to a session"
+  },
+  {
+    "id": "270",
+    "dir": "270-recipe-sharing-app-the-update-flow-is-broken-end",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Recipe Sharing App: The update flow is broken end to end"
+  },
+  {
+    "id": "271",
+    "dir": "271-event-board-the-update-flow-is-broken-end-to-end",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Event Board: The update flow is broken end to end"
+  },
+  {
+    "id": "272",
+    "dir": "272-marketplace-deleting-does-everything-except-dele",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Marketplace: Deleting does everything except deleting"
+  },
+  {
+    "id": "273",
+    "dir": "273-library-catalog-deleting-does-everything-except-",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Library Catalog: Deleting does everything except deleting"
+  },
+  {
+    "id": "274",
+    "dir": "274-project-tracker-the-authentication-chain-is-full",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Project Tracker: The authentication chain is full of holes"
+  },
+  {
+    "id": "275",
+    "dir": "275-q-a-forum-the-authentication-chain-is-full-of-ho",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Q&A Forum: The authentication chain is full of holes"
+  },
+  {
+    "id": "276",
+    "dir": "276-online-academy-reading-and-listing-are-both-off",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Online Academy: Reading and listing are both off"
+  },
+  {
+    "id": "277",
+    "dir": "277-blog-platform-reading-and-listing-are-both-off",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Blog Platform: Reading and listing are both off"
+  },
+  {
+    "id": "278",
+    "dir": "278-event-board-pagination-sorting-and-populate-gone",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Event Board: Pagination, sorting and populate gone wrong"
+  },
+  {
+    "id": "279",
+    "dir": "279-recipe-sharing-app-pagination-sorting-and-popula",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Recipe Sharing App: Pagination, sorting and populate gone wrong"
+  },
+  {
+    "id": "280",
+    "dir": "280-library-catalog-validation-is-not-what-it-used-t",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Library Catalog: Validation is not what it used to be"
+  },
+  {
+    "id": "281",
+    "dir": "281-marketplace-validation-is-not-what-it-used-to-be",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Marketplace: Validation is not what it used to be"
+  },
+  {
+    "id": "282",
+    "dir": "282-q-a-forum-create-endpoint-seven-small-problems",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Q&A Forum: Create endpoint: seven small problems"
+  },
+  {
+    "id": "283",
+    "dir": "283-project-tracker-create-endpoint-seven-small-prob",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Project Tracker: Create endpoint: seven small problems"
+  },
+  {
+    "id": "284",
+    "dir": "284-blog-platform-after-the-bad-merge-a-mixed-bag-of",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Blog Platform: After the bad merge: a mixed bag of bugs"
+  },
+  {
+    "id": "285",
+    "dir": "285-online-academy-after-the-bad-merge-a-mixed-bag-o",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Online Academy: After the bad merge: a mixed bag of bugs"
+  },
+  {
+    "id": "286",
+    "dir": "286-recipe-sharing-app-my-items-routing-and-app-leve",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Recipe Sharing App: My items, routing and app-level behaviour"
+  },
+  {
+    "id": "287",
+    "dir": "287-event-board-my-items-routing-and-app-level-behav",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Event Board: My items, routing and app-level behaviour"
+  },
+  {
+    "id": "288",
+    "dir": "288-marketplace-data-integrity-problems-in-the-model",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Marketplace: Data integrity problems in the model layer"
+  },
+  {
+    "id": "289",
+    "dir": "289-library-catalog-data-integrity-problems-in-the-m",
+    "track": "Express API bug-fix",
+    "difficulty": "Hard",
+    "title": "Library Catalog: Data integrity problems in the model layer"
+  }
+]
